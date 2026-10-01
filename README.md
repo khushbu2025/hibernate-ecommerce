@@ -107,5 +107,5 @@ HibernateEcommerce
 3. **Run Automated Unit Tests**
    * Open `src/test/java/com/ecommerce/test/EcommerceDAOTest.java`
    * Right-click and choose **Run As -> JUnit Test**
-   * All CRUD and relationship tests execute in order and pass with 0 failures and 0 errors.
+   * All CRUD and relationship tests execute in order and pass with 0 failures and 0 errors. 
    
