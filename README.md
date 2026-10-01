@@ -8,6 +8,7 @@ A complete Object-Relational Mapping (ORM) based E-commerce system built with Ja
 
 The project follows a standard Maven directory layout:
 
+```text
 HibernateEcommerce/
 |
 +-- src/main/java/
@@ -43,6 +44,7 @@ HibernateEcommerce/
 +-- pom.xml                              # Maven build dependencies and plugins
 +-- .gitignore                           # Git ignore rules for Maven and IDE files
 +-- README.md                            # Documentation and setup guide
+```
 
 ---
 
